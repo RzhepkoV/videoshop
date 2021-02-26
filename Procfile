@@ -1,1 +1,1 @@
-web: gunicorn videostore.wsgi.py
+web: gunicorn videostore.wsgi
